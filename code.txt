@@ -1,1 +1,1 @@
-this is GitHub 
+GitHub is a cloud-based platform, which it can host the repository of git 
