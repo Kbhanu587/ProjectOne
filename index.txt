@@ -1,0 +1,1 @@
+Git is a version control system & it can be collaborate with multiple developers
